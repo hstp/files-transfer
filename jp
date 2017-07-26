@@ -10,23 +10,14 @@
 メールアドレス				
 取引開始年月日				
 
-
-拠点事務所		
-工　　　場		
-倉　　　庫		
-
-
-所有
-所有
-所有
-所有
-
-借家
-借家
-借家
-借家
-
-借地
-借地
-借地
-借地
+CompanyName
+Representative
+Address
+FoundationDate
+BankingRelationship
+OwnCompanyEmployeeNumber
+ 
+Capital
+Phone
+MailAddress
+TradingStartDate
