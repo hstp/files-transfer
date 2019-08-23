@@ -1,0 +1,1280 @@
+// Select Skill
+[CmdSelectSkill]
+Hotkey=D
+Tip=Select Skill (|cffffcc00D|r)
+
+// Eat Tree
+[Aeat]
+Hotkey=Q
+Tip=Eat Tree (|cffffcc00Q|r)
+
+// Root
+[Aroo]
+Hotkey=E
+Tip=Root (|cffffcc00E|r)
+Unhotkey=E
+[Aro1]
+Hotkey=E
+Tip=Root (|cffffcc00E|r)
+Unhotkey=E
+[Aro2]
+Hotkey=E
+Tip=Root (|cffffcc00E|r)
+Unhotkey=E
+
+// Shadowmeld
+[Ashm]
+Hotkey=S
+Tip=Shadowmeld (|cffffcc00S|r)
+
+// Entangle Gold Mine
+[Aent]
+Hotkey=W
+Tip=Entangle Gold Mine (|cffffcc00W|r)
+
+// Cargo Load Entangled Mine
+[Slo2]
+Hotkey=Q
+Tip=Cargo Load Entangled Mine (|cffffcc00Q|r)
+
+// Cargo Unload Entangled Mine
+[Adri]
+Hotkey=W
+Tip=Cargo Unload Entangled Mine (|cffffcc00W|r)
+
+// Replenish Mana and Life
+[Ambt]
+Hotkey=Q
+Tip=Replenish Mana and Life (|cffffcc00Q|r)
+
+// Battle Stations
+[Abtl]
+Hotkey=Q
+Tip=Battle Stations (|cffffcc00Q|r)
+
+// Stand Down
+[Astd]
+Hotkey=W
+Tip=Stand Down (|cffffcc00W|r)
+
+// Cloak of Shadows
+[AIhm]
+Hotkey=S
+Tip=Cloak of Shadows (|cffffcc00S|r)
+
+// Call to Arms
+[Amil]
+Hotkey=W
+Tip=Call to Arms (|cffffcc00W|r)
+Unhotkey=W
+Untip=Back to Work (|cffffcc00W|r)
+[Amic]
+Hotkey=W
+Tip=Call to Arms (|cffffcc00W|r)
+Unhotkey=W
+Untip=Back to Work (|cffffcc00W|r)
+
+// Defend
+[Adef]
+Hotkey=Q
+Tip=Defend (|cffffcc00Q|r)
+Unhotkey=Q
+
+// Flare
+[Afla]
+Hotkey=Q
+Tip=Flare (|cffffcc00Q|r)
+
+// Heal
+[Ahea]
+Hotkey=Q
+Tip=Heal (|cffffcc00Q|r)
+
+// Dispel Magic
+[Adis]
+Hotkey=W
+Tip=Dispel Magic (|cffffcc00W|r)
+
+// Inner Fire
+[Ainf]
+Hotkey=W
+Tip=Inner Fire (|cffffcc00W|r)
+
+// Slow
+[Aslo]
+Hotkey=Q
+Tip=Slow (|cffffcc00Q|r)
+
+// Invisibility
+[Aivs]
+Hotkey=W
+Tip=Invisibility (|cffffcc00W|r)
+
+// Polymorph
+[Aply]
+Hotkey=W
+Tip=Polymorph (|cffffcc00W|r)
+
+// Spell Steal
+[Asps]
+Hotkey=Q
+Tip=Spell Steal (|cffffcc00Q|r)
+
+// Control Magic
+[Acmg]
+Hotkey=W
+Tip=Control Magic (|cffffcc00W|r)
+
+// Aerial Shackles
+[Amls]
+Hotkey=Q
+Tip=Aerial Shackles (|cffffcc00Q|r)
+
+// Cloud
+[Aclf]
+Hotkey=W
+Tip=Cloud (|cffffcc00W|r)
+
+// Ensnare
+[Aens]
+Hotkey=Q
+Tip=Ensnare (|cffffcc00Q|r)
+
+// Berserk
+[Absk]
+Hotkey=Q
+Tip=Berserk (|cffffcc00Q|r)
+
+// Devour
+[Adev]
+Hotkey=Q
+Tip=Devour (|cffffcc00Q|r)
+
+// Unstable Concoction
+[Auco]
+Hotkey=Q
+Tip=Unstable Concoction (|cffffcc00Q|r)
+
+// Sentry Ward
+[Aeye]
+Hotkey=Q
+Tip=Sentry Ward (|cffffcc00Q|r)
+
+// Stasis Trap
+[Asta]
+Hotkey=W
+Tip=Stasis Trap (|cffffcc00W|r)
+
+// Healing Ward
+[Ahwd]
+Hotkey=W
+Tip=Healing Ward (|cffffcc00W|r)
+
+// Purge
+[Apg2]
+Hotkey=Q
+Tip=Purge (|cffffcc00Q|r)
+
+// Lightning Shield
+[Alsh]
+Hotkey=W
+Tip=Lightning Shield (|cffffcc00W|r)
+
+// Bloodlust
+[Ablo]
+Hotkey=W
+Tip=Bloodlust (|cffffcc00W|r)
+
+// Spirit Link
+[Aspl]
+Hotkey=Q
+Tip=Spirit Link (|cffffcc00Q|r)
+
+// Disenchant
+[Adcn]
+Hotkey=W
+Tip=Disenchant (|cffffcc00W|r)
+
+// Ancestral Spirit
+[Aast]
+Hotkey=W
+Tip=Ancestral Spirit (|cffffcc00W|r)
+
+// Ethereal Form
+[Aetf]
+Hotkey=E
+Tip=Ethereal Form (|cffffcc00E|r)
+Unhotkey=E
+
+// Corporeal Form
+[Acpf]
+Hotkey=E
+Tip=Corporeal Form (|cffffcc00E|r)
+Unhotkey=E
+
+// Detonate
+[Adtn]
+Hotkey=W
+Tip=Detonate (|cffffcc00W|r)
+
+// Mount Hippogryph
+[Aco2]
+Hotkey=Q
+Tip=Mount Hippogryph (|cffffcc00Q|r)
+
+// Dismount Hippogryph
+[Adec]
+Hotkey=Q
+Tip=Dismount Hippogryph (|cffffcc00Q|r)
+
+// Sentinel
+[Aesn]
+Hotkey=Q
+Tip=Sentinel (|cffffcc00Q|r)
+
+// Dispel Magic
+[Aadm]
+Hotkey=Q
+Tip=Dispel Magic (|cffffcc00Q|r)
+
+// Pick up Archer
+[Aco3]
+Hotkey=Q
+Tip=Pick up Archer (|cffffcc00Q|r)
+
+// Faerie Fire
+[Afae]
+Hotkey=Q
+Tip=Faerie Fire (|cffffcc00Q|r)
+[Afa2]
+Hotkey=Q
+Tip=Faerie Fire (|cffffcc00Q|r)
+
+// Cyclone
+[Acyc]
+Hotkey=W
+Tip=Cyclone (|cffffcc00W|r)
+
+// Crow Form
+[Arav]
+Hotkey=E
+Tip=Crow Form (|cffffcc00E|r)
+Unhotkey=E
+
+// Roar
+[Aroa]
+Hotkey=Q
+Tip=Roar (|cffffcc00Q|r)
+[Ara2]
+Hotkey=Q
+Tip=Roar (|cffffcc00Q|r)
+
+// Rejuvenation
+[Arej]
+Hotkey=W
+Tip=Rejuvenation (|cffffcc00W|r)
+
+// Bear Form
+[Abrf]
+Hotkey=E
+Tip=Bear Form (|cffffcc00E|r)
+Unhotkey=E
+
+// War Club
+[Agra]
+Hotkey=W
+Tip=War Club (|cffffcc00W|r)
+
+// Taunt
+[Atau]
+Hotkey=Q
+Tip=Taunt (|cffffcc00Q|r)
+
+// Phase Shift
+[Apsh]
+Hotkey=Q
+Tip=Phase Shift (|cffffcc00Q|r)
+
+// Mana Flare
+[Amfl]
+Hotkey=W
+Tip=Mana Flare (|cffffcc00W|r)
+
+// Unsummon
+[Auns]
+Hotkey=W
+Tip=Unsummon (|cffffcc00W|r)
+
+// Sacrifice
+[Alam]
+Hotkey=E
+Tip=Sacrifice (|cffffcc00E|r)
+
+// Cannibalize
+[Acan]
+Hotkey=Q
+Tip=Cannibalize (|cffffcc00Q|r)
+
+// Cannibalize
+[Acn2]
+Hotkey=Q
+Tip=Cannibalize (|cffffcc00Q|r)
+
+// Load Corpse
+[Amel]
+Hotkey=Q
+Tip=Load Corpse (|cffffcc00Q|r)
+
+// Unload Corpse
+[Amed]
+Hotkey=W
+Tip=Unload Corpse (|cffffcc00W|r)
+
+// Web
+[Aweb]
+Hotkey=Q
+Tip=Web (|cffffcc00Q|r)
+
+// Burrow
+[Abur]
+Hotkey=E
+Tip=Burrow (|cffffcc00E|r)
+Unhotkey=E
+
+// Stone Form
+[Astn]
+Hotkey=Q
+Tip=Stone Form (|cffffcc00Q|r)
+Unhotkey=Q
+
+// Curse
+[Acrs]
+Hotkey=Q
+Tip=Curse (|cffffcc00Q|r)
+
+// Anti-magic Shell
+[Aams]
+Hotkey=W
+Tip=Anti-magic Shell (|cffffcc00W|r)
+[Aam2]
+Hotkey=W
+Tip=Anti-magic Shell (|cffffcc00W|r)
+
+// Possession
+[Apos]
+Hotkey=W
+Tip=Possession (|cffffcc00W|r)
+[Aps2]
+Hotkey=W
+Tip=Possession (|cffffcc00W|r)
+
+// Raise Dead
+[Arai]
+Hotkey=W
+Tip=Raise Dead (|cffffcc00W|r)
+
+// Incite Unholy Frenzy
+[Auuf]
+Hotkey=W
+Tip=Incite Unholy Frenzy (|cffffcc00W|r)
+
+// Cripple
+[Acri]
+Hotkey=Q
+Tip=Cripple (|cffffcc00Q|r)
+
+// Essence of Blight
+[Arpl]
+Hotkey=Q
+Tip=Essence of Blight (|cffffcc00Q|r)
+
+// Spirit Touch
+[Arpm]
+Hotkey=W
+Tip=Spirit Touch (|cffffcc00W|r)
+
+// Morph into Destroyer
+[ubsp]
+Hotkey=E
+Tip=Morph into Destroyer (|cffffcc00E|r)
+
+// Devour Magic
+[Advm]
+Hotkey=Q
+Tip=Devour Magic (|cffffcc00Q|r)
+
+// Orb of Annihilation
+[Afak]
+Hotkey=W
+Tip=Orb of Annihilation (|cffffcc00W|r)
+
+// Absorb Mana
+[Aabs]
+Hotkey=E
+Tip=Absorb Mana (|cffffcc00E|r)
+
+// Load
+[Aloa]
+Hotkey=Q
+Tip=Load (|cffffcc00Q|r)
+
+// Unload All
+[Adro]
+Hotkey=W
+Tip=Unload All (|cffffcc00W|r)
+
+// Kaboom!
+[Asds]
+Hotkey=Q
+Tip=Kaboom! (|cffffcc00Q|r)
+
+// Heal
+[Anh2]
+Hotkey=Q
+Tip=Heal (|cffffcc00Q|r)
+
+// Abolish Magic
+[ACd2]
+Hotkey=W
+Tip=Abolish Magic (|cffffcc00W|r)
+
+// Inner Fire
+[ACif]
+Hotkey=W
+Tip=Inner Fire (|cffffcc00W|r)
+
+// Heal
+[Anh1]
+Hotkey=Q
+Tip=Heal (|cffffcc00Q|r)
+
+// Abolish Magic
+[ACdm]
+Hotkey=W
+Tip=Abolish Magic (|cffffcc00W|r)
+
+// Ensnare
+[ACen]
+Hotkey=Q
+Tip=Ensnare (|cffffcc00Q|r)
+
+// Slow
+[ACsw]
+Hotkey=Q
+Tip=Slow (|cffffcc00Q|r)
+
+// Rejuvenation
+[ACr2]
+Hotkey=Q
+Tip=Rejuvenation (|cffffcc00Q|r)
+
+// Curse
+[ACcs]
+Hotkey=Q
+Tip=Curse (|cffffcc00Q|r)
+
+// Immolation
+[ACim]
+Hotkey=W
+Tip=Immolation (|cffffcc00W|r)
+Unhotkey=W
+
+// Burrow
+[Abu5]
+Hotkey=E
+Tip=Burrow (|cffffcc00E|r)
+Unhotkey=E
+
+// Slam
+[ACt2]
+Hotkey=Q
+Tip=Slam (|cffffcc00Q|r)
+
+// Purge
+[ACpu]
+Hotkey=Q
+Tip=Purge (|cffffcc00Q|r)
+
+// Searing Arrows
+[ACsa]
+Hotkey=W
+Tip=Searing Arrows (|cffffcc00W|r)
+
+// Healing Ward
+[AChw]
+Hotkey=Q
+Tip=Healing Ward (|cffffcc00Q|r)
+
+// Feral Spirit
+[ACs9]
+Hotkey=W
+Tip=Feral Spirit (|cffffcc00W|r)
+
+// Mana Burn
+[Ambd]
+Hotkey=Q
+Tip=Mana Burn (|cffffcc00Q|r)
+
+// Raise Dead
+[ACrd]
+Hotkey=W
+Tip=Raise Dead (|cffffcc00W|r)
+
+// Cannibalize
+[ACcn]
+Hotkey=Q
+Tip=Cannibalize (|cffffcc00Q|r)
+
+// Cold Arrows
+[ACcw]
+Hotkey=Q
+Tip=Cold Arrows (|cffffcc00Q|r)
+
+// Faerie Fire
+[ACff]
+Hotkey=Q
+Tip=Faerie Fire (|cffffcc00Q|r)
+
+// Bloodlust
+[ACbb]
+Hotkey=Q
+Tip=Bloodlust (|cffffcc00Q|r)
+
+// Entangling Roots
+[Aenw]
+Hotkey=Q
+Tip=Entangling Roots (|cffffcc00Q|r)
+
+// Summon Prawns
+[Aslp]
+Hotkey=W
+Tip=Summon Prawns (|cffffcc00W|r)
+
+// Blizzard
+[ACbz]
+Hotkey=Q
+Tip=Blizzard (|cffffcc00Q|r)
+
+// Devour
+[ACdv]
+Hotkey=Q
+Tip=Devour (|cffffcc00Q|r)
+
+// Frost Nova
+[ACfn]
+Hotkey=Q
+Tip=Frost Nova (|cffffcc00Q|r)
+
+// Mana Burn
+[Ambb]
+Hotkey=Q
+Tip=Mana Burn (|cffffcc00Q|r)
+
+// Hurl Boulder
+[ACtb]
+Hotkey=Q
+Tip=Hurl Boulder (|cffffcc00Q|r)
+
+// Siphon Mana
+[AHdr]
+Hotkey=W
+Tip=Siphon Mana (|cffffcc00W|r)
+Researchhotkey=W
+
+// Flame Strike
+[AHfs]
+Hotkey=Q
+Tip=Flame Strike (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Banish
+[AHbn]
+Hotkey=W
+Tip=Banish (|cffffcc00W|r)
+Researchhotkey=W
+
+// Summon Phoenix
+[AHpx]
+Hotkey=E
+Tip=Summon Phoenix (|cffffcc00E|r)
+Researchhotkey=E
+
+// Blizzard
+[AHbz]
+Hotkey=Q
+Tip=Blizzard (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Summon Water Elemental
+[AHwe]
+Hotkey=W
+Tip=Summon Water Elemental (|cffffcc00W|r)
+Researchhotkey=W
+
+// Brilliance Aura
+[AHab]
+Hotkey=W
+Tip=Brilliance Aura (|cffffcc00W|r)
+Researchhotkey=W
+
+// Mass Teleport
+[AHmt]
+Hotkey=E
+Tip=Mass Teleport (|cffffcc00E|r)
+Researchhotkey=E
+
+// Storm Bolt
+[AHtb]
+Hotkey=Q
+Tip=Storm Bolt (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Thunder Clap
+[AHtc]
+Hotkey=W
+Tip=Thunder Clap (|cffffcc00W|r)
+Researchhotkey=W
+
+// Bash
+[AHbh]
+Hotkey=W
+Tip=Bash (|cffffcc00W|r)
+Researchhotkey=W
+
+// Avatar
+[AHav]
+Hotkey=E
+Tip=Avatar (|cffffcc00E|r)
+Researchhotkey=E
+Unhotkey=E
+
+// Holy Light
+[AHhb]
+Hotkey=Q
+Tip=Holy Light (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Divine Shield
+[AHds]
+Hotkey=W
+Tip=Divine Shield (|cffffcc00W|r)
+Researchhotkey=W
+
+// Devotion Aura
+[AHad]
+Hotkey=W
+Tip=Devotion Aura (|cffffcc00W|r)
+Researchhotkey=W
+
+// Resurrection
+[AHre]
+Hotkey=E
+Tip=Resurrection (|cffffcc00E|r)
+Researchhotkey=E
+
+// Wind Walk
+[AOwk]
+Hotkey=Q
+Tip=Wind Walk (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Critical Strike
+[AOcr]
+Hotkey=W
+Tip=Critical Strike (|cffffcc00W|r)
+Researchhotkey=W
+
+// Mirror Image
+[AOmi]
+Hotkey=W
+Tip=Mirror Image (|cffffcc00W|r)
+Researchhotkey=W
+
+// Bladestorm
+[AOww]
+Hotkey=E
+Tip=Bladestorm (|cffffcc00E|r)
+Researchhotkey=E
+
+// Chain Lightning
+[AOcl]
+Hotkey=Q
+Tip=Chain Lightning (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Far Sight
+[AOfs]
+Hotkey=W
+Tip=Far Sight (|cffffcc00W|r)
+Researchhotkey=W
+
+// Feral Spirit
+[AOsf]
+Hotkey=W
+Tip=Feral Spirit (|cffffcc00W|r)
+Researchhotkey=W
+
+// Earthquake
+[AOeq]
+Hotkey=E
+Tip=Earthquake (|cffffcc00E|r)
+Researchhotkey=E
+
+// Healing Wave
+[AOhw]
+Hotkey=Q
+Tip=Healing Wave (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Serpent Ward
+[AOsw]
+Hotkey=W
+Tip=Serpent Ward (|cffffcc00W|r)
+Researchhotkey=W
+
+// Hex
+[AOhx]
+Hotkey=W
+Tip=Hex (|cffffcc00W|r)
+Researchhotkey=W
+
+// Big Bad Voodoo
+[AOvd]
+Hotkey=E
+Tip=Big Bad Voodoo (|cffffcc00E|r)
+Researchhotkey=E
+
+// Shockwave
+[AOsh]
+Hotkey=Q
+Tip=Shockwave (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Endurance Aura
+[AOae]
+Hotkey=W
+Tip=Endurance Aura (|cffffcc00W|r)
+Researchhotkey=W
+
+// War Stomp
+[AOws]
+Hotkey=W
+Tip=War Stomp (|cffffcc00W|r)
+Researchhotkey=W
+
+// Reincarnation
+[AOre]
+Hotkey=E
+Tip=Reincarnation (|cffffcc00E|r)
+Researchhotkey=E
+
+// Mana Burn
+[AEmb]
+Hotkey=Q
+Tip=Mana Burn (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Immolation
+[AEim]
+Hotkey=W
+Tip=Immolation (|cffffcc00W|r)
+Researchhotkey=W
+Unhotkey=W
+
+// Evasion
+[AEev]
+Hotkey=W
+Tip=Evasion (|cffffcc00W|r)
+Researchhotkey=W
+
+// Metamorphosis
+[AEme]
+Hotkey=E
+Tip=Metamorphosis (|cffffcc00E|r)
+Researchhotkey=E
+
+// Entangling Roots
+[AEer]
+Hotkey=Q
+Tip=Entangling Roots (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Force of Nature
+[AEfn]
+Hotkey=W
+Tip=Force of Nature (|cffffcc00W|r)
+Researchhotkey=W
+
+// Thorns Aura
+[AEah]
+Hotkey=W
+Tip=Thorns Aura (|cffffcc00W|r)
+Researchhotkey=W
+
+// Tranquility
+[AEtq]
+Hotkey=E
+Tip=Tranquility (|cffffcc00E|r)
+Researchhotkey=E
+
+// Scout
+[AEst]
+Hotkey=Q
+Tip=Scout (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Searing Arrows
+[AHfa]
+Hotkey=W
+Tip=Searing Arrows (|cffffcc00W|r)
+Researchhotkey=W
+
+// Trueshot Aura
+[AEar]
+Hotkey=W
+Tip=Trueshot Aura (|cffffcc00W|r)
+Researchhotkey=W
+
+// Starfall
+[AEsf]
+Hotkey=E
+Tip=Starfall (|cffffcc00E|r)
+Researchhotkey=E
+
+// Blink
+[AEbl]
+Hotkey=W
+Tip=Blink (|cffffcc00W|r)
+Researchhotkey=W
+
+// Fan of Knives
+[AEfk]
+Hotkey=Q
+Tip=Fan of Knives (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Shadow Strike
+[AEsh]
+Hotkey=W
+Tip=Shadow Strike (|cffffcc00W|r)
+Researchhotkey=W
+
+// Avatar of Vengeance
+[AEsv]
+Hotkey=E
+Tip=Avatar of Vengeance (|cffffcc00E|r)
+Researchhotkey=E
+
+// Spirit of Vengeance
+[Avng]
+Hotkey=Q
+Tip=Spirit of Vengeance (|cffffcc00Q|r)
+
+// Impale
+[AUim]
+Hotkey=Q
+Tip=Impale (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Spiked Carapace
+[AUts]
+Hotkey=W
+Tip=Spiked Carapace (|cffffcc00W|r)
+Researchhotkey=W
+
+// Carrion Beetles
+[AUcb]
+Hotkey=W
+Tip=Carrion Beetles (|cffffcc00W|r)
+Researchhotkey=W
+
+// Locust Swarm
+[AUls]
+Hotkey=E
+Tip=Locust Swarm (|cffffcc00E|r)
+Researchhotkey=E
+
+// Burrow
+[Abu1]
+Hotkey=E
+Tip=Burrow (|cffffcc00E|r)
+Unhotkey=E
+[Abu2]
+Hotkey=E
+Tip=Burrow (|cffffcc00E|r)
+Unhotkey=E
+[Abu3]
+Hotkey=E
+Tip=Burrow (|cffffcc00E|r)
+Unhotkey=E
+
+// Death Coil
+[AUdc]
+Hotkey=Q
+Tip=Death Coil (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Unholy Aura
+[AUau]
+Hotkey=W
+Tip=Unholy Aura (|cffffcc00W|r)
+Researchhotkey=W
+
+// Death Pact
+[AUdp]
+Hotkey=W
+Tip=Death Pact (|cffffcc00W|r)
+Researchhotkey=W
+
+// Animate Dead
+[AUan]
+Hotkey=E
+Tip=Animate Dead (|cffffcc00E|r)
+Researchhotkey=E
+
+// Carrion Swarm
+[AUcs]
+Hotkey=Q
+Tip=Carrion Swarm (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Sleep
+[AUsl]
+Hotkey=W
+Tip=Sleep (|cffffcc00W|r)
+Researchhotkey=W
+
+// Vampiric Aura
+[AUav]
+Hotkey=W
+Tip=Vampiric Aura (|cffffcc00W|r)
+Researchhotkey=W
+
+// Inferno
+[AUin]
+Hotkey=E
+Tip=Inferno (|cffffcc00E|r)
+Researchhotkey=E
+
+// Frost Nova
+[AUfn]
+Hotkey=Q
+Tip=Frost Nova (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Frost Armor
+[AUfu]
+Hotkey=W
+Tip=Frost Armor (|cffffcc00W|r)
+Researchhotkey=W
+
+// Dark Ritual
+[AUdr]
+Hotkey=W
+Tip=Dark Ritual (|cffffcc00W|r)
+Researchhotkey=W
+
+// Death and Decay
+[AUdd]
+Hotkey=E
+Tip=Death and Decay (|cffffcc00E|r)
+Researchhotkey=E
+
+// Mana Shield
+[ANms]
+Hotkey=W
+Tip=Mana Shield (|cffffcc00W|r)
+Researchhotkey=W
+Unhotkey=W
+
+// Forked Lightning
+[ANfl]
+Hotkey=Q
+Tip=Forked Lightning (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Frost Arrows
+[ANfa]
+Hotkey=W
+Tip=Frost Arrows (|cffffcc00W|r)
+Researchhotkey=W
+
+// Tornado
+[ANto]
+Hotkey=E
+Tip=Tornado (|cffffcc00E|r)
+Researchhotkey=E
+
+// Howl of Terror
+[ANht]
+Hotkey=W
+Tip=Howl of Terror (|cffffcc00W|r)
+Researchhotkey=W
+
+// Rain of Fire
+[ANrf]
+Hotkey=Q
+Tip=Rain of Fire (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Cleaving Attack
+[ANca]
+Hotkey=W
+Tip=Cleaving Attack (|cffffcc00W|r)
+Researchhotkey=W
+
+// Doom
+[ANdo]
+Hotkey=E
+Tip=Doom (|cffffcc00E|r)
+Researchhotkey=E
+
+// Dispel Magic
+[Adsm]
+Hotkey=Q
+Tip=Dispel Magic (|cffffcc00Q|r)
+
+// War Stomp
+[Awrs]
+Hotkey=W
+Tip=War Stomp (|cffffcc00W|r)
+
+// Cripple
+[ACcr]
+Hotkey=W
+Tip=Cripple (|cffffcc00W|r)
+
+// Rain of Fire
+[ACrf]
+Hotkey=E
+Tip=Rain of Fire (|cffffcc00E|r)
+
+// Breath of Fire
+[ANbf]
+Hotkey=Q
+Tip=Breath of Fire (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Drunken Brawler
+[ANdb]
+Hotkey=W
+Tip=Drunken Brawler (|cffffcc00W|r)
+Researchhotkey=W
+
+// Drunken Haze
+[ANdh]
+Hotkey=W
+Tip=Drunken Haze (|cffffcc00W|r)
+Researchhotkey=W
+
+// Storm Earth and Fire
+[ANef]
+Hotkey=E
+Tip=Storm Earth and Fire (|cffffcc00E|r)
+Researchhotkey=E
+
+// Wind Walk
+[ANwk]
+Hotkey=W
+Tip=Wind Walk (|cffffcc00W|r)
+
+// Cyclone
+[ACcy]
+Hotkey=W
+Tip=Cyclone (|cffffcc00W|r)
+
+// Dispel Magic
+[Adsm]
+Hotkey=Q
+Tip=Dispel Magic (|cffffcc00Q|r)
+
+// Taunt
+[ANta]
+Hotkey=W
+Tip=Taunt (|cffffcc00W|r)
+
+// Summon Bear
+[ANsg]
+Hotkey=Q
+Tip=Summon Bear (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Summon Quilbeast
+[ANsq]
+Hotkey=W
+Tip=Summon Quilbeast (|cffffcc00W|r)
+Researchhotkey=W
+
+// Summon Hawk
+[ANsw]
+Hotkey=W
+Tip=Summon Hawk (|cffffcc00W|r)
+Researchhotkey=W
+
+// Stampede
+[ANst]
+Hotkey=E
+Tip=Stampede (|cffffcc00E|r)
+Researchhotkey=E
+
+// Blink
+[ANbl]
+Hotkey=Q
+Tip=Blink (|cffffcc00Q|r)
+
+// Frenzy
+[Afzy]
+Hotkey=Q
+Tip=Frenzy (|cffffcc00Q|r)
+
+// Black Arrow
+[ANba]
+Hotkey=W
+Tip=Black Arrow (|cffffcc00W|r)
+Researchhotkey=W
+
+// Silence
+[ANsi]
+Hotkey=Q
+Tip=Silence (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Life Drain
+[ANdr]
+Hotkey=W
+Tip=Life Drain (|cffffcc00W|r)
+Researchhotkey=W
+
+// Charm
+[ANch]
+Hotkey=E
+Tip=Charm (|cffffcc00E|r)
+Researchhotkey=E
+
+// Pocket Factory
+[ANsy]
+Hotkey=Q
+Tip=Pocket Factory (|cffffcc00Q|r)
+Researchhotkey=Q
+[ANs1]
+Hotkey=Q
+Tip=Pocket Factory (|cffffcc00Q|r)
+Researchhotkey=Q
+[ANs2]
+Hotkey=Q
+Tip=Pocket Factory (|cffffcc00Q|r)
+Researchhotkey=Q
+[ANs3]
+Hotkey=Q
+Tip=Pocket Factory (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Cluster Rockets
+[ANcs]
+Hotkey=W
+Tip=Cluster Rockets (|cffffcc00W|r)
+Researchhotkey=W
+[ANc1]
+Hotkey=W
+Tip=Cluster Rockets (|cffffcc00W|r)
+Researchhotkey=W
+[ANc2]
+Hotkey=W
+Tip=Cluster Rockets (|cffffcc00W|r)
+Researchhotkey=W
+[ANc3]
+Hotkey=W
+Tip=Cluster Rockets (|cffffcc00W|r)
+Researchhotkey=W
+
+// Engineering Upgrade
+[ANeg]
+Hotkey=W
+Tip=Engineering Upgrade (|cffffcc00W|r)
+Researchhotkey=W
+
+// Robo-Goblin
+[ANrg]
+Hotkey=E
+Tip=Robo-Goblin (|cffffcc00E|r)
+Researchhotkey=E
+Unhotkey=E
+[ANg1]
+Hotkey=E
+Tip=Robo-Goblin (|cffffcc00E|r)
+Researchhotkey=E
+Unhotkey=E
+[ANg2]
+Hotkey=E
+Tip=Robo-Goblin (|cffffcc00E|r)
+Researchhotkey=E
+Unhotkey=E
+[ANg3]
+Hotkey=E
+Tip=Robo-Goblin (|cffffcc00E|r)
+Researchhotkey=E
+Unhotkey=E
+
+// Kaboom!
+[Asdg]
+Hotkey=Q
+Tip=Kaboom! (|cffffcc00Q|r)
+[Asd2]
+Hotkey=Q
+Tip=Kaboom! (|cffffcc00Q|r)
+[Asd3]
+Hotkey=Q
+Tip=Kaboom! (|cffffcc00Q|r)
+
+// Healing Spray
+[ANhs]
+Hotkey=Q
+Tip=Healing Spray (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Acid Bomb
+[ANab]
+Hotkey=W
+Tip=Acid Bomb (|cffffcc00W|r)
+Researchhotkey=W
+
+// Chemical Rage
+[ANcr]
+Hotkey=W
+Tip=Chemical Rage (|cffffcc00W|r)
+Researchhotkey=W
+
+// Transmute
+[ANtm]
+Hotkey=E
+Tip=Transmute (|cffffcc00E|r)
+Researchhotkey=E
+
+// Incinerate
+[ANic]
+Hotkey=W
+Tip=Incinerate (|cffffcc00W|r)
+Researchhotkey=W
+[ANia]
+Hotkey=W
+Tip=Incinerate (|cffffcc00W|r)
+Researchhotkey=W
+
+// Soul Burn
+[ANso]
+Hotkey=Q
+Tip=Soul Burn (|cffffcc00Q|r)
+Researchhotkey=Q
+
+// Summon Lava Spawn
+[ANlm]
+Hotkey=W
+Tip=Summon Lava Spawn (|cffffcc00W|r)
+Researchhotkey=W
+
+// Volcano
+[ANvc]
+Hotkey=E
+Tip=Volcano (|cffffcc00E|r)
+Researchhotkey=E
+
